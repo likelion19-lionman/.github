@@ -76,3 +76,8 @@ git config --global commit.template .gitmessage.txt
 # 어떻게 보다는 무엇과 왜
 #
 ```
+
+## 팀 구성
+
+- **제품 책임자**: 성훈
+- **개발팀**: 전체
