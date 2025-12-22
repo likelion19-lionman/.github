@@ -81,3 +81,12 @@ git config --global commit.template .gitmessage.txt
 
 - **제품 책임자**: 성훈
 - **개발팀**: 전체
+
+## 시스템 환경
+
+- **Backend**: Spring Boot 3.6
+- **Frontend**: Next.js + Vite
+- **Database**: MySQL 8.0
+- **Infra**: Docker, AWS EC2
+- **CI/CD**: GitHub Actions
+- **Collaboration**: Notion, GitHub Projects, Miro
